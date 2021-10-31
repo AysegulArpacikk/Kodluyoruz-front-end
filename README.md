@@ -1,3 +1,3 @@
 # Kodluyoruz-front-end
 
-Kodluyoruz Front-End eğitimi kapsamındaki bölüm sonu çalışması.
+Kodluyoruz Front-End eğitimi kapsamındaki bölüm sonu çalışması ve ödevler.
